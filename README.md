@@ -128,10 +128,6 @@ Data files are located in `data/`:
         └── Project.toml
 ```
 
-## Acknowledgements
-
-We, the [Data Lab for Social Good (DL4SG)](https://www.cardiff.ac.uk/research/explore/research-units/data-lab-for-social-good) group at Cardiff Business School, Cardiff University, gratefully acknowledge **Resul Akay** for delivering this training to DL4SG.
-
 ## References
 
 ### General Forecasting
