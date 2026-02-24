@@ -1,20 +1,10 @@
-# Forecasting in Julia using Durbyn.jl
+# Introduction to Forecasting in Julia
 
-A comprehensive training session on time series forecasting in Julia, delivered as part of the [Data Lab for Social Good (DL4SG)](https://www.cardiff.ac.uk/research/explore/research-units/data-lab-for-social-good) training programme at Cardiff Business School, Cardiff University.
+A comprehensive introduction to time series forecasting in Julia using the [Durbyn.jl](https://github.com/taf-society/Durbyn.jl) package. This course takes participants from Julia fundamentals through to production-ready panel data forecasting workflows.
 
-## About the Training
-
-This repository contains all materials for the DL4SG training session on **Forecasting in Julia using Durbyn.jl**. The course takes participants from Julia fundamentals through to production-ready panel data forecasting workflows using the [Durbyn.jl](https://github.com/taf-society/Durbyn.jl) package.
-
-## About DL4SG
-
-The [Data Lab for Social Good (DL4SG)](https://www.cardiff.ac.uk/research/explore/research-units/data-lab-for-social-good) is a research group established and hosted by Cardiff Business School at Cardiff University. The group harnesses the transformative power of data science, machine learning, forecasting, and management science to drive social good. Through the development, application, and dissemination of knowledge and skills, DL4SG strives to inform and improve decision-making processes that lead to positive societal outcomes.
+## About Durbyn.jl
 
 **Durbyn** -- Kurdish for "binoculars" (*Dur*, far + *Byn*, to see) -- is a native Julia package for time-series forecasting, inspired by the R **forecast** and **fable** packages. It provides a formula-based grammar for declarative model specification with full support for panel data, model comparison, and tidy forecasting workflows. Durbyn.jl is developed by the [Time Series Analysis and Forecasting Society (TAFS)](https://taf-society.org/).
-
-## Instructor
-
-**Resul Akay** is a data scientist with a strong focus on time series forecasting, optimisation, and applied machine learning. He works on building practical, data-driven systems and is actively engaged with the open-source ecosystem, contributing to and advocating for transparent, reusable, and well-engineered data science tools. His work bridges academic rigour and real-world impact, particularly in forecasting and decision-making problems.
 
 ## Course Structure
 
